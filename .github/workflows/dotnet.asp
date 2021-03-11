@@ -1,10 +1,7 @@
-<!Doctype Html>
-<Html>
-<head>
-<title>My first asp webpage</title>
-</Head>
+<!DOCTYPE html>
+<html>
 <body>
-<h1>Hello world!  @DateTime.Now</h1>
+     <h1>Hello Web Pages</h1>
+     <p>The time is @DateTime.Now</p>
 </body>
-</Html>
-
+</html>
